@@ -1,0 +1,12 @@
+pyproject.toml
+src/__init__.py
+src/analytics_engine.py
+src/data_manager.py
+src/main.py
+src/model.py
+src/employee_analytics_tool.egg-info/PKG-INFO
+src/employee_analytics_tool.egg-info/SOURCES.txt
+src/employee_analytics_tool.egg-info/dependency_links.txt
+src/employee_analytics_tool.egg-info/requires.txt
+src/employee_analytics_tool.egg-info/top_level.txt
+test/test_analytics_engine.py
