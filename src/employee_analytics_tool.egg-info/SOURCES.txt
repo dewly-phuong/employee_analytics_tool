@@ -1,3 +1,4 @@
+README.md
 pyproject.toml
 src/__init__.py
 src/analytics_engine.py
@@ -10,3 +11,5 @@ src/employee_analytics_tool.egg-info/dependency_links.txt
 src/employee_analytics_tool.egg-info/requires.txt
 src/employee_analytics_tool.egg-info/top_level.txt
 test/test_analytics_engine.py
+test/test_data_manager.py
+test/test_main.py
