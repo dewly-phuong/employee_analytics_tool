@@ -4,3 +4,4 @@ Version: 0.1.0
 Requires-Python: >=3.14
 Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: ruff>=0.15.12

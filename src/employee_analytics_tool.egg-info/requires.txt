@@ -1,2 +1,3 @@
 pandas
 numpy
+ruff>=0.15.12

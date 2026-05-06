@@ -3,6 +3,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
+
 class DataManager:
     def __init__(self, input_path: str, output_path: str):
         self.input_path = input_path
@@ -33,4 +34,3 @@ class DataManager:
         except Exception as e:
             logging.error(f"Error occurred while saving data: {e}")
             return False
-            
